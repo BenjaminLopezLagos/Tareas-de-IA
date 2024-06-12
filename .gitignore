@@ -2,3 +2,4 @@ venv
 .conda
 */.ipynb_checkpoints
 Material
+data/
